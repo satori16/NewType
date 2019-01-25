@@ -117,9 +117,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="CalculationFunctions.h" />
-    <ClInclude Include="CalculationPostfix.h" />
     <ClInclude Include="NewType.h" />
-    <ClInclude Include="PhysicsEnum.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp" />

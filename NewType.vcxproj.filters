@@ -18,12 +18,6 @@
     <ClInclude Include="NewType.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="PhysicsEnum.h">
-      <Filter>ヘッダー ファイル</Filter>
-    </ClInclude>
-    <ClInclude Include="CalculationPostfix.h">
-      <Filter>ヘッダー ファイル</Filter>
-    </ClInclude>
     <ClInclude Include="CalculationFunctions.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
